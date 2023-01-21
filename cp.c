@@ -1,5 +1,3 @@
-//Lucas Alves Coutinho Eckhardt
-
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
